@@ -1,3 +1,4 @@
 # ECG
 
-The project is based in te library Protocentral
+**Introduction**
+The project is based in the library Protocentral
